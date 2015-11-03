@@ -1,22 +1,3 @@
 # SapCore
-Just a program of my testing
-
-Easy to use UIView in iOS program.
-
-Just put the project to your own program, the "import SapCore".
-
-UITextFiels:
-
-textField.isEmail
-
-textField.isNumber
-
-
-String:
-
-str.base64Encoding
-
-str.sha1Encoding
-
-
-...
+一个简单的拼图游戏，从相册选取图片后可自定义拼图的行数和列数。
+程序只用到了UIView
