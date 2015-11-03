@@ -3,11 +3,11 @@
 程序只用到了UIView
 ![image](https://github.com/xjmeplws/MovePictures/blob/master/images/1.png)
 
-![image](https://github.com/xjmeplws/MovePictures/tree/master/images/2.png)
+![image](https://github.com/xjmeplws/MovePictures/blob/master/images/2.png)
 
 
-![image](https://github.com/xjmeplws/MovePictures/tree/master/images/3.png)
+![image](https://github.com/xjmeplws/MovePictures/blob/master/images/3.png)
 
-![image](https://github.com/xjmeplws/MovePictures/tree/master/images/4.png)
+![image](https://github.com/xjmeplws/MovePictures/blob/master/images/4.png)
 
-![image](https://github.com/xjmeplws/MovePictures/tree/master/images/5.png)
+![image](https://github.com/xjmeplws/MovePictures/blob/master/images/5.png)
